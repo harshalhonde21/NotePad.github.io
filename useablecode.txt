@@ -1,0 +1,7 @@
+<div class="create_note">
+        <div class="operate_me">
+            <button class="edit_me"><i class="fa-solid fa-pen"></i></button>
+            <button class="delete_me"><i class="fa-solid fa-trash"></i></button>
+        </div>
+        <textarea class="text-area" cols="35" rows="14"></textarea>
+    </div>
